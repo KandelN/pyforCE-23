@@ -2,7 +2,7 @@
 Organized in collaboration with Civil Engineering Students Society (CESS) Nepal <br>
 This repository is an extensive collection of jupyter notebook files created during the workshop. <br>
 
-Following contents were discussed:<br>
+Following contents were discussed in the workshop:<br>
 • Python Basics & Scientific computational packages: numpy, matplotlib, sympy, scipy <br>
 • Numerical solution methods: Non-linear equation, System of linear equation, Curving-Fitting,
 Interpolation, Differentiation/ Integration, Ordinary and Partial Differential Equation <br>
